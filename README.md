@@ -1,1 +1,2 @@
-# Crush_the_Zombies_Final
+# zombie-crush-3
+project solution of c31
